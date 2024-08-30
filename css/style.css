@@ -1,0 +1,64 @@
+/* *{
+    margin: 0;
+    box-sizing: border-box;
+} */
+.home img {
+    width: 99.5%;
+    height: 294px;
+}
+
+.image img{
+    width: 592px;
+    height: 295px;
+}
+
+.belun img{
+    width: 592px;
+    height: 295px;
+}
+
+.middle-div {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.color img {
+    /* margin: 0 4px; */
+}
+
+.colorPen img {
+    width: 650px;
+    height: 145px;
+}
+
+.colorPata img {
+    width: 650px;
+    height: 145px;
+}
+
+
+.tiaBard {
+    width: 592px;
+    height: 340px;
+}
+
+.last-div {
+    /* display: flex; */
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.tiger{
+    
+    display: flex;
+}
+
+.tiger img{
+    width: 294px;
+    height: 169px;
+}
+.image img{
+    /* margin: 0 4px; */
+    width: 592px;
+    height: 340px;
+}
